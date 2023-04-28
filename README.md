@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋🏻, I'm Girish Patil
+Hi 👋🏻, I'm Girish Patil<br>I Love Coding 👨‍💻<br>Turning imagination into reality 🚀
 
 
 ## 🌐 Socials:
